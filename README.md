@@ -1,5 +1,6 @@
 # Custom WordPress Theme
-Just a simple WordPress Theme boilerplate.
+Just a simple WordPress Theme boilerplate.  
+This Theme boilerplate works with [WordPress](https://wordpress.org/)
 
 Includes generic template (useful for page builders), a header and a footer.  
 CSS and JavaScript customizable.
